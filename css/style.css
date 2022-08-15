@@ -1,0 +1,13 @@
+@import url("./components/grid.css");
+@import url("./components/container.css");
+@import url("./components/badge.css");
+
+.center {
+  margin: 0 auto;
+}
+
+@media (max-width: 476px) {
+  .tile img {
+    width: 30px;
+  }
+}
