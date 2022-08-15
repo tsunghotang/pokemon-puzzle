@@ -5,7 +5,7 @@ Pokèmon themed number puzzle game built with JavaScript.
 
 ![](Screenshot.png)
 
-App home: https://tsunghotang.github.io/pokemon-puzzle-game/
+App home: https://tsunghotang.github.io/pokemon-puzzle/
 
 ---
 
